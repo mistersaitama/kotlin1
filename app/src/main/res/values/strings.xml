@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kotlin1</string>
+    <string name="hint">hint</string>
+    <string name="button_first">button_first</string>
+    <string name="button_second">button_second</string>
+</resources>
